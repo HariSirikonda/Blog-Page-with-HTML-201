@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+
+p,li{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#box{
+    width: 450px;
+    height: 180px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+    float: right;
+    margin: 10px;
+    background-color: aliceblue;
+    border-radius: 15px 15px 15px 15px;
+}
+
+a{color: blue;}
+a:hover{
+    color: red;
+}
+
+.right_shadow{
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+    margin: 10px;
+    float: right;
+}
